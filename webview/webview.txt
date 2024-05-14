@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=uFT5d0HjcqA&t=42s
+
+
+dev_dependencies:
+  webview_flutter: ^4.7.0
+  
+
+importar o package e executar o pub get
+
+usar um parametro url
+
+usar controller
+
+no initState = setar modulos
+
+no body: utilizar o WebViewWidger
